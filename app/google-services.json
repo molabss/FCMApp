@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "256681155926",
+    "firebase_url": "https://fcmapp-138bd.firebaseio.com",
+    "project_id": "fcmapp-138bd",
+    "storage_bucket": "fcmapp-138bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256681155926:android:10ebc93c212b110f",
+        "android_client_info": {
+          "package_name": "com.moisessantana.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256681155926-5ikn7fgr289d2u8p1hf19o5p135l6a7l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moisessantana.fcm",
+            "certificate_hash": "00A636DFB6DA7B9118FFFEBED9E2C1D27C97E116"
+          }
+        },
+        {
+          "client_id": "256681155926-jcl937vt1c237vv7gsj8qtcdhvmhuier.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWwrbWjAMOVRlPm1dzWjY-i7u3q71AoM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256681155926-jcl937vt1c237vv7gsj8qtcdhvmhuier.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
